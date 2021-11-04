@@ -2,7 +2,7 @@
 
 This repository contains code for online training a closed deferral pipeline. The complete model and analysis are presented in the following paper:
 
-**[Designing a closed human-in-the-loop pipeline](#)** <br>
+**[Designing a closed human-in-the-loop deferral pipeline](#)** <br>
 Vijay Keswani, Matthew Lease, Krishnaram Kenthapadi <br>
 *BHCC, 2021*
 
